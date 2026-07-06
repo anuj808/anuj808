@@ -1,3 +1,6 @@
+![snake gif](https://raw.githubusercontent.com/anuj808/anuj808/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+     ![snake gif](https://raw.githubusercontent.com/anuj808/anuj808/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 <div align="center">
 
 <!-- Terminal-style animated header -->

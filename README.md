@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <!-- Terminal-style animated header -->
@@ -8,6 +6,13 @@
 </div>
 
 ---
+
+<table>
+<tr>
+<td width="280" valign="top">
+<img src="./assets/anuj_pixel_avatar.svg" width="260" alt="Anuj Kumar - pixel avatar" />
+</td>
+<td valign="top">
 
 ```json
 {
@@ -23,6 +28,10 @@
   "seeking"      : "SDE-1 | Full Stack Engineer"
 }
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -150,6 +159,3 @@ Total         500+               Arrays · LinkedLists · Trees
 ![Visitor Count](https://komarev.com/ghpvc/?username=anuj808&color=7c3aed&style=flat-square&label=profile+views)
 
 </div>
-
-![snake gif](https://raw.githubusercontent.com/anuj808/anuj808/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-     ![snake gif](https://raw.githubusercontent.com/anuj808/anuj808/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)

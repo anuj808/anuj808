@@ -159,3 +159,15 @@ Total         500+               Arrays · LinkedLists · Trees
 ![Visitor Count](https://komarev.com/ghpvc/?username=anuj808&color=7c3aed&style=flat-square&label=profile+views)
 
 </div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuj808/anuj808/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuj808/anuj808/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/anuj808/anuj808/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
